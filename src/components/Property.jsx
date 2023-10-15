@@ -1,4 +1,17 @@
 import image from "/src/assets/images (1).jpg";
+import first from "/src/assets/download (1).jpg";
+import second from "/src/assets/download (2).jpg";
+import img4 from "/src/assets/download (3).jpg";
+import img5 from "/src/assets/download (7).jpg";
+import img6 from "/src/assets/download (5).jpg";
+import img7 from "/src/assets/download (6).jpg";
+import img8 from "/src/assets/download (2).jpg";
+import img9 from "/src/assets/download (7).jpg";
+import img10 from "/src/assets/download (6).jpg";
+import img11 from "/src/assets/download (6).jpg";
+import img12 from "/src/assets/download (2).jpg";
+import img13 from "/src/assets/download (2).jpg";
+
 // Import Swiper React components
 import { Swiper, SwiperSlide } from "swiper/react";
 
@@ -13,7 +26,7 @@ const data = {
       description:
         "Using it can make you sound like you have been studying English for a long time",
       price: 19.99,
-      image: "/src/assets/download (1).jpg",
+      image: first,
       bed: "2",
       bath: "2",
       car: "1",
@@ -24,7 +37,7 @@ const data = {
       description:
         "Using it can make you sound like you have been studying English for a long time",
       price: 29.99,
-      image: "/src/assets/download (2).jpg",
+      image:second,
       bed: "2",
       bath: "2",
       car: "1",
@@ -35,7 +48,7 @@ const data = {
       description:
         "Using it can make you sound like you have been studying English for a long time",
       price: 39.99,
-      image: "/src/assets/download (3).jpg",
+      image: img4,
       bed: "2",
       bath: "2",
       car: "1",
@@ -46,7 +59,7 @@ const data = {
       description:
         "Using it can make you sound like you have been studying English for a long time",
       price: 49.99,
-      image: "/src/assets/download (7).jpg",
+      image: img5,
       bed: "2",
       bath: "2",
       car: "1",
@@ -57,7 +70,7 @@ const data = {
       description:
         "Using it can make you sound like you have been studying English for a long time",
       price: 59.99,
-      image: "/src/assets/download (5).jpg",
+      image: img6,
       bed: "2",
       bath: "2",
       car: "1",
@@ -68,7 +81,7 @@ const data = {
       description:
         "Using it can make you sound like you have been studying English for a long time",
       price: 69.99,
-      image: "/src/assets/download (6).jpg",
+      image: img7,
       bed: "2",
       bath: "2",
       car: "1",
@@ -79,7 +92,7 @@ const data = {
       description:
         "Using it can make you sound like you have been studying English for a long time",
       price: 79.99,
-      image: "/src/assets/download (2).jpg",
+      image: img8,
       bed: "2",
       bath: "2",
       car: "1",
@@ -90,7 +103,7 @@ const data = {
       description:
         "Using it can make you sound like you have been studying English for a long time",
       price: 89.99,
-      image: "/src/assets/download (7).jpg",
+      image: img9,
       bed: "2",
       bath: "2",
       car: "1",
@@ -101,7 +114,7 @@ const data = {
       description:
         "Using it can make you sound like you have been studying English for a long time",
       price: 99.99,
-      image: "/src/assets/download (5).jpg",
+      image: img10,
       bed: "2",
       bath: "2",
       car: "1",
@@ -112,7 +125,7 @@ const data = {
       description:
         "Using it can make you sound like you have been studying English for a long time",
       price: 109.99,
-      image: "/src/assets/download (2).jpg",
+      image: img11,
       bed: "2",
       bath: "2",
       car: "1",
@@ -123,7 +136,7 @@ const data = {
       description:
         "Using it can make you sound like you have been studying English for a long time",
       price: 119.99,
-      image: "/src/assets/download (3).jpg",
+      image: img12,
       bed: "2",
       bath: "2",
       car: "1",
@@ -134,7 +147,7 @@ const data = {
       description:
         "Using it can make you sound like you have been studying English for a long time",
       price: 129.99,
-      image: "/src/assets/download.jpg",
+      image: img13,
       bed: "2",
       bath: "2",
       car: "1",
